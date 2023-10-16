@@ -30,6 +30,12 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
+<span style="color:blue">(*: Equal contribution; $\dagger$: Corresponding author(s))</span>
+
+[Deep learning and radiomics analysis for prediction of placenta invasion based on T2WI](http://www.aimspress.com/aimspress-data/mbe/2021/5/PDF/mbe-18-05-310.pdf)
+
+**Qian Shao**$^\*$, Rongrong Xuan$^\*$, Yutao Wang$^\dagger$, Jian Xu, Menglin Ouyang, Caoqian Yin, Wei Jin$^\dagger$, Mathematical Biosciences and Engineering, 2021
+
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -51,9 +57,13 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 
-<!-- # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
+# 📖 Educations
+- *2022.09 - 2026.03 (expected)*, Ph.D. in Computer Science and Technology, College of Computer Science and Technology, Zhejiang University.
+
+- *2019.09 - 2022.06*, M.Eng. in Computer Technology, Faculty of Electrical Engineering and Computer Science, Ningbo University.
+
+- *2014.09 - 2018.06*, B.Eng. in Computer Science and Technology, Faculty of Electrical Engineering and Computer Science, Ningbo University.
+
 
 # 💬 Talks
 <!-- - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
