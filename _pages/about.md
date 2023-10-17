@@ -56,6 +56,7 @@ My research interest includes neural machine translation and computer vision. I 
 <!-- - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
+- *2019.12*, Awarded Sencond Prize in "HUAWEI Cup" The 16th China Post-Graduate Mathematical Contest in Modeling (Top 15%)
 
 # 📖 Educations
 - *2022.09 - 2026.03 (expected)*, Ph.D. in Computer Science and Technology, College of Computer Science and Technology, Zhejiang University.
@@ -66,6 +67,8 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 💬 Talks
+None yet.
+
 <!-- - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
