@@ -34,13 +34,9 @@ My research interest includes neural machine translation and computer vision. I 
 
 <span style="color:blue">(*: Equal contribution; $\dagger$: Corresponding author(s))</span>
 
-[Deep learning and radiomics analysis for prediction of placenta invasion based on T2WI](http://www.aimspress.com/aimspress-data/mbe/2021/5/PDF/mbe-18-05-310.pdf)
+* [Deep learning and radiomics analysis for prediction of placenta invasion based on T2WI](http://www.aimspress.com/aimspress-data/mbe/2021/5/PDF/mbe-18-05-310.pdf); **Qian Shao**$^\*$, Rongrong Xuan$^\*$, Yutao Wang$^\dagger$, Jian Xu, Menglin Ouyang, Caoqian Yin, Wei Jin$^\dagger$; Mathematical Biosciences and Engineering, 2021
 
-**Qian Shao**$^\*$, Rongrong Xuan$^\*$, Yutao Wang$^\dagger$, Jian Xu, Menglin Ouyang, Caoqian Yin, Wei Jin$^\dagger$; Mathematical Biosciences and Engineering, 2021
-
-[Jointly Explicit and Implicit Cross-Modal Interaction Network for Anterior Chamber Inflammation Diagnosis](https://arxiv.org/pdf/2312.06171.pdf)
-
-**Qian Shao**$^\*$, Ye Dai$^\*$, Haochao Ying, Kan Xu, Jinhong Wang, Wei Chi, Jian Wu$^\dagger$; Arxiv Preprint, 2023
+* [Jointly Explicit and Implicit Cross-Modal Interaction Network for Anterior Chamber Inflammation Diagnosis](https://arxiv.org/pdf/2312.06171.pdf); **Qian Shao**$^\*$, Ye Dai$^\*$, Haochao Ying, Kan Xu, Jinhong Wang, Wei Chi, Jian Wu$^\dagger$; Arxiv Preprint, 2023
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
