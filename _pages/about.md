@@ -34,9 +34,18 @@ My research interest includes neural machine translation and computer vision. I 
 
 <span style="color:blue">(*: Equal contribution; $\dagger$: Corresponding author(s))</span>
 
+* [Comprehensive Subset Selection for CT Volume Compression to Improve Pulmonary Disease Screening Efficiency](https://openreview.net/pdf?id=JLyiMGQoqZ); **Qian Shao**$^\*$, Kai Zhang$^\*$, Bang Du, Zepeng Li, Yixuan Wu, Qiyuan Chen, Jian Wu$^\dagger$, Jintai Chen$^\dagger$; KDD Workshop-AIDSH, 2024
+
+* [Enhancing Semi-Supervised Learning via Representative and Diverse Sample Selection](https://arxiv.org/pdf/2409.11653); **Qian Shao**$^\*$, Jiangrui Kang$^\*$, Qiyuan Chen$^\*$, Zepeng Li, Hongxia Xu, Yiwen Cao, Jiajuan Liang$^\dagger$, Jian Wu$^\dagger$; NeurIPS, 2024
+
+* [Jointly Explicit and Implicit Cross-Modal Interaction Network for Anterior Chamber Inflammation Diagnosis](https://arxiv.org/pdf/2312.06171.pdf); **Qian Shao**$^\*$, Ye Dai$^\*$, Haochao Ying$^\dagger$, Kan Xu, Jinhong Wang, Wei Chi$^\dagger$, Jian Wu; IEEE MedAI, 2024
+
+* [TeleOR: Real-time Telemedicine System for Full-Scene Operating Room](https://arxiv.org/pdf/2407.19763); Yixuan Wu$^\*$, Kaiyuan Hu$^\*$, **Qian Shao**, Jintai Chen$^\dagger$, Danny Z. Chen, Jian Wu$^\dagger$; MICCAI, 2024
+
 * [Deep learning and radiomics analysis for prediction of placenta invasion based on T2WI](http://www.aimspress.com/aimspress-data/mbe/2021/5/PDF/mbe-18-05-310.pdf); **Qian Shao**$^\*$, Rongrong Xuan$^\*$, Yutao Wang$^\dagger$, Jian Xu, Menglin Ouyang, Caoqian Yin, Wei Jin$^\dagger$; Mathematical Biosciences and Engineering, 2021
 
-* [Jointly Explicit and Implicit Cross-Modal Interaction Network for Anterior Chamber Inflammation Diagnosis](https://arxiv.org/pdf/2312.06171.pdf); **Qian Shao**$^\*$, Ye Dai$^\*$, Haochao Ying$^\dagger$, Kan Xu, Jinhong Wang, Wei Chi$^\dagger$, Jian Wu; Arxiv Preprint, 2023
+* [Development of a nomograph integrating radiomics and deep features based on MRI to predict the prognosis of high grade Gliomas](https://www.aimspress.com/aimspress-data/mbe/2021/6/PDF/mbe-18-06-401.pdf); Yutao Wang, **Qian Shao**$^\dagger$, Shuying Luo, Randi Fu; Mathematical Biosciences and Engineering, 2021
+
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
