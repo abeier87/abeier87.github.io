@@ -21,7 +21,6 @@ I am Qian Shao (邵谦), a Ph.D. student in the College of Computer Science and 
 
 Also I work really closely with [Qiyuan Chen](https://qychen2001.github.io/), [Zepeng Li](https://lzzppp.github.io/) and [Jiahe Chen](https://jiahechen2002.github.io/).
 
-
 # 📝 Publications 
 
 <span style="color:blue">(*: Equal contribution; $\dagger$: Corresponding author(s))</span>
