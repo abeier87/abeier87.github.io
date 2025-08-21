@@ -26,6 +26,18 @@ Also I work really closely with [Qiyuan Chen](https://qychen2001.github.io/), [Z
 
 <span style="color:blue">(*: Equal contribution; $\dagger$: Corresponding author(s))</span>
 
+## 2025
+
+* **\[arXiv'25\]** [Generation of Drug-Induced Cardiac Reactions towards Virtual Clinical Trials](https://arxiv.org/pdf/2502.07297); **Qian Shao**$^\*$, Bang Du$^\*$, Zepeng Li, Qiyuan Chen, Hongxia Xu, Jimeng Sun, Jian Wu$^\dagger$, Jintai Chen$^\dagger$.
+
+* **\[arXiv'25\]** [Mitigating Hallucination of Large Vision-Language Models via Dynamic Logits Calibration](https://arxiv.org/pdf/2506.21509); Jiahe Chen, Jiaying He, **Qian Shao**, Qiyuan Chen, Jiahe Ying, Hongxia Xu, Jintai Chen, Jianwei Zheng$^\dagger$, Jian Wu$^\dagger$.
+
+* **\[EMNLP'25\]** [Icon$^2$: Aligning Large Language Models Using Self-Synthetic Preference Data via Inherent Regulation](); Qiyuan Chen$^\*$, Hongsen Huang$^\*$, **Qian Shao**, Jiahe Chen, Jintai Chen, Hongxia Xu, Renjie Hua, Ren Chuan, Jian Wu$^\dagger$.
+
+## 2024
+
+* **\[arXiv'24\]** [Towards Clinical Practice in CT-Based Pulmonary Disease Screening: An Efficient and Reliable Framework](https://arxiv.org/pdf/2412.01525); **Qian Shao**$^\*$, Bang Du$^\*$, Kai Zhang, Yixuan Wu, Zepeng Li, Qiyuan Chen, Qianqian Tang, Jian Wu, Jintai Chen$^\dagger$, Hongxia Xu$^\dagger$.
+
 * **\[IEEE MedAI'24\]** [Joint Explicit and Implicit Cross-Modal Interaction Network for Anterior Chamber Inflammation Diagnosis](https://arxiv.org/pdf/2312.06171.pdf); **Qian Shao**$^\*$, Ye Dai$^\*$, Haochao Ying$^\dagger$, Kan Xu, Jinhong Wang, Wei Chi$^\dagger$, Jian Wu.
 
 * **\[KDD Workshop-AIDSH'24\]** [Comprehensive Subset Selection for CT Volume Compression to Improve Pulmonary Disease Screening Efficiency](https://openreview.net/pdf?id=JLyiMGQoqZ); **Qian Shao**$^\*$, Kai Zhang$^\*$, Bang Du, Zepeng Li, Yixuan Wu, Qiyuan Chen, Jian Wu$^\dagger$, Jintai Chen$^\dagger$.
@@ -33,6 +45,8 @@ Also I work really closely with [Qiyuan Chen](https://qychen2001.github.io/), [Z
 * **\[MICCAI'24 (Oral)\]** [TeleOR: Real-time Telemedicine System for Full-Scene Operating Room](https://arxiv.org/pdf/2407.19763); Yixuan Wu$^\*$, Kaiyuan Hu$^\*$, **Qian Shao**, Jintai Chen$^\dagger$, Danny Z. Chen, Jian Wu$^\dagger$.
 
 * **\[NeurIPS'24\]** [Enhancing Semi-Supervised Learning via Representative and Diverse Sample Selection](https://arxiv.org/pdf/2409.11653); **Qian Shao**$^\*$, Jiangrui Kang$^\*$, Qiyuan Chen$^\*$, Zepeng Li, Hongxia Xu, Yiwen Cao, Jiajuan Liang$^\dagger$, Jian Wu$^\dagger$.
+
+## 2021
 
 * **\[Mathematical Biosciences and Engineering, 2021\]** [Deep learning and radiomics analysis for prediction of placenta invasion based on T2WI](http://www.aimspress.com/aimspress-data/mbe/2021/5/PDF/mbe-18-05-310.pdf); **Qian Shao**$^\*$, Rongrong Xuan$^\*$, Yutao Wang$^\dagger$, Jian Xu, Menglin Ouyang, Caoqian Yin, Wei Jin$^\dagger$.
 
