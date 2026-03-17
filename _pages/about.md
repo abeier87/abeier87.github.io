@@ -29,7 +29,7 @@ Also I work really closely with [Qiyuan Chen](https://qychen2001.github.io/), [Z
 
 * **\[ICLR'26\]** [CoLA: Co-Calibrated Logit Adjustment for Long-Tailed Semi-Supervised Learning](https://openreview.net/pdf?id=pI9n8wAR80); **Qian Shao**, Qiyuan Chen, Jiahe Chen, Zepeng Li, Qianqian Tang, Hongxia Xu$^\dagger$, Jian Wu$^\dagger$.
 
-* **\[ICME'26\]** [DREAM: Distribution-aware Re-sampling with Equiangular Alignment Mechanism for Long-Tailed Semi-Supervised Learning](); **Qian Shao**$^\*$, Jiahe Chen$^\*$, Qiyuan Chen, Qianqian Tang, Jintai Chen, Hongxia Xu, Jiangrui Kang$^\dagger$, Jian Wu$^\dagger$.
+* **\[ICME'26 (Spotlight)\]** [DREAM: Distribution-aware Re-sampling with Equiangular Alignment Mechanism for Long-Tailed Semi-Supervised Learning](); **Qian Shao**$^\*$, Jiahe Chen$^\*$, Qiyuan Chen, Qianqian Tang, Jintai Chen, Hongxia Xu, Jiangrui Kang$^\dagger$, Jian Wu$^\dagger$.
 
 ## 2025
 
