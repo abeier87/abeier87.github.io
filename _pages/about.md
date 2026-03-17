@@ -27,7 +27,7 @@ Also I work really closely with [Qiyuan Chen](https://qychen2001.github.io/), [Z
 
 ## 2025
 
-* **\[arXiv'25\]** [Beyond Keywords: Driving Generative Search Engine Optimization with Content-Centric Agents](https://arxiv.org/pdf/2509.05607); Qiyuan Chen$^\*$, Jiahe Chen$^\*$, Hongsen Huang$^\*$, **Qian Shao**, Jintai Chen, Renjie Hua, Hongxia Xu, Ruijia Wu, Chuan Ren$^\dagger$, Jian Wu$^\dagger$.
+* **\[arXiv'25\]** [CC-GSEO-Bench: A Content-Centric Benchmark for Measuring Source Influence in Generative Search Engines](https://arxiv.org/pdf/2509.05607); Qiyuan Chen$^*$, Jiahe Chen$^*$, Hongsen Huang$^*$, **Qian Shao**, Jintai Chen, Renjie Hua, Hongxia Xu, Ruijia Wu, Chuan Ren$^\dagger$, Jian Wu$^\dagger$.
 
 * **\[arXiv'25\]** [Generation of Drug-Induced Cardiac Reactions towards Virtual Clinical Trials](https://arxiv.org/pdf/2502.07297); **Qian Shao**$^\*$, Bang Du$^\*$, Zepeng Li, Qiyuan Chen, Hongxia Xu, Jimeng Sun, Jian Wu$^\dagger$, Jintai Chen$^\dagger$.
 
