@@ -33,17 +33,9 @@ Also I work really closely with [Qiyuan Chen](https://qychen2001.github.io/), [Z
 
 ## 2025
 
-* **\[arXiv'25\]** [CC-GSEO-Bench: A Content-Centric Benchmark for Measuring Source Influence in Generative Search Engines](https://arxiv.org/pdf/2509.05607); Qiyuan Chen$^\*$, Jiahe Chen$^\*$, Hongsen Huang$^\*$, **Qian Shao**, Jintai Chen, Renjie Hua, Hongxia Xu, Ruijia Wu, Chuan Ren$^\dagger$, Jian Wu$^\dagger$.
-
-<!-- * **\[arXiv'25\]** [Generation of Drug-Induced Cardiac Reactions towards Virtual Clinical Trials](https://arxiv.org/pdf/2502.07297); **Qian Shao**$^\*$, Bang Du$^\*$, Zepeng Li, Qiyuan Chen, Hongxia Xu, Jimeng Sun, Jian Wu$^\dagger$, Jintai Chen$^\dagger$. -->
-
-* **\[arXiv'25\]** [Curing Semantic Drift: A Dynamic Approach to Grounding Generation in Large Vision-Language Models](https://arxiv.org/pdf/2506.21509); Jiahe Chen, Jiaying He, Qiyuan Chen, **Qian Shao**, Jiahe Ying, Hongxia Xu, Jintai Chen, Jianwei Zheng$^\dagger$, Jian Wu$^\dagger$.
-
 * **\[EMNLP'25\]** [Icon$^2$: Aligning Large Language Models Using Self-Synthetic Preference Data via Inherent Regulation](https://openreview.net/pdf?id=C5nZzUzYkz); Qiyuan Chen$^\*$, Hongsen Huang$^\*$, **Qian Shao**, Jiahe Chen, Jintai Chen, Hongxia Xu, Renjie Hua, Ren Chuan$^\dagger$, Jian Wu$^\dagger$.
 
 ## 2024
-
-<!-- * **\[arXiv'24\]** [Towards Clinical Practice in CT-Based Pulmonary Disease Screening: An Efficient and Reliable Framework](https://arxiv.org/pdf/2412.01525); **Qian Shao**$^\*$, Bang Du$^\*$, Kai Zhang, Yixuan Wu, Zepeng Li, Qiyuan Chen, Qianqian Tang, Jian Wu, Jintai Chen$^\dagger$, Hongxia Xu$^\dagger$. -->
 
 * **\[IEEE MedAI'24\]** [Joint Explicit and Implicit Cross-Modal Interaction Network for Anterior Chamber Inflammation Diagnosis](https://ieeexplore.ieee.org/abstract/document/10803521); **Qian Shao**$^\*$, Ye Dai$^\*$, Haochao Ying$^\dagger$, Kan Xu, Jinhong Wang, Wei Chi$^\dagger$, Jian Wu.
 
@@ -59,6 +51,15 @@ Also I work really closely with [Qiyuan Chen](https://qychen2001.github.io/), [Z
 
 * **\[Mathematical Biosciences and Engineering, 2021\]** [Development of a nomograph integrating radiomics and deep features based on MRI to predict the prognosis of high grade Gliomas](https://www.aimspress.com/aimspress-data/mbe/2021/6/PDF/mbe-18-06-401.pdf); Yutao Wang, **Qian Shao**$^\dagger$, Shuying Luo, Randi Fu.
 
+## Pre-Print
+
+* **\[arXiv'25\]** [CC-GSEO-Bench: A Content-Centric Benchmark for Measuring Source Influence in Generative Search Engines](https://arxiv.org/pdf/2509.05607); Qiyuan Chen$^\*$, Jiahe Chen$^\*$, Hongsen Huang$^\*$, **Qian Shao**, Jintai Chen, Renjie Hua, Hongxia Xu, Ruijia Wu, Chuan Ren$^\dagger$, Jian Wu$^\dagger$.
+
+<!-- * **\[arXiv'25\]** [Generation of Drug-Induced Cardiac Reactions towards Virtual Clinical Trials](https://arxiv.org/pdf/2502.07297); **Qian Shao**$^\*$, Bang Du$^\*$, Zepeng Li, Qiyuan Chen, Hongxia Xu, Jimeng Sun, Jian Wu$^\dagger$, Jintai Chen$^\dagger$. -->
+
+* **\[arXiv'25\]** [Curing Semantic Drift: A Dynamic Approach to Grounding Generation in Large Vision-Language Models](https://arxiv.org/pdf/2506.21509); Jiahe Chen, Jiaying He, Qiyuan Chen, **Qian Shao**, Jiahe Ying, Hongxia Xu, Jintai Chen, Jianwei Zheng$^\dagger$, Jian Wu$^\dagger$.
+
+<!-- * **\[arXiv'24\]** [Towards Clinical Practice in CT-Based Pulmonary Disease Screening: An Efficient and Reliable Framework](https://arxiv.org/pdf/2412.01525); **Qian Shao**$^\*$, Bang Du$^\*$, Kai Zhang, Yixuan Wu, Zepeng Li, Qiyuan Chen, Qianqian Tang, Jian Wu, Jintai Chen$^\dagger$, Hongxia Xu$^\dagger$. -->
 
 
 # 🎖 Awards
