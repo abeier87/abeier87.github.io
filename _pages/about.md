@@ -64,14 +64,16 @@ Also I work really closely with [Qiyuan Chen](https://qychen2001.github.io/), [Z
 
 # 🎖 Awards
 
-- *2019.12*, Awarded Sencond Prize in "HUAWEI Cup" The 16th China Post-Graduate Mathematical Contest in Modeling (Top 15%)
+- *2025.12*, Academic Excellence First-Class Scholarship for Graduate Students, College of Computer Science $\&$ Technology, Zhejiang University
+
+- *2019.12*, Sencond Prize in "HUAWEI Cup" The 16th China Post-Graduate Mathematical Contest in Modeling (Top 15%)
 
 # 📖 Educations
-- *2022.09 - 2026.03 (expected)*, Ph.D. in Computer Science and Technology, College of Computer Science and Technology, Zhejiang University.
+- *2022.09 - 2026.03 (expected)*, Ph.D. in Computer Science and Technology, College of Computer Science and Technology, Zhejiang University
 
-- *2019.09 - 2022.06*, M.Eng. in Computer Technology, Faculty of Electrical Engineering and Computer Science, Ningbo University.
+- *2019.09 - 2022.06*, M.Eng. in Computer Technology, Faculty of Electrical Engineering and Computer Science, Ningbo University
 
-- *2014.09 - 2018.06*, B.Eng. in Computer Science and Technology, Faculty of Electrical Engineering and Computer Science, Ningbo University.
+- *2014.09 - 2018.06*, B.Eng. in Computer Science and Technology, Faculty of Electrical Engineering and Computer Science, Ningbo University
 
 
 # 💬 Talks
