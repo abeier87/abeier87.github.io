@@ -53,13 +53,13 @@ Also I work really closely with [Qiyuan Chen](https://qychen2001.github.io/), [Z
 
 ## Pre-Print
 
+* **\[arXiv'26\]** [Towards Clinical Practice in CT-Based Pulmonary Disease Screening: An Efficient and Reliable Framework](https://arxiv.org/pdf/2412.01525); **Qian Shao**$^\*$, Bang Du$^\*$, Yixuan Wu, Zepeng Li, Qiyuan Chen, Qianqian Tang, Jian Wu, Jintai Chen$^\dagger$, Hongxia Xu$^\dagger$.
+
 * **\[arXiv'25\]** [CC-GSEO-Bench: A Content-Centric Benchmark for Measuring Source Influence in Generative Search Engines](https://arxiv.org/pdf/2509.05607); Qiyuan Chen$^\*$, Jiahe Chen$^\*$, Hongsen Huang$^\*$, **Qian Shao**, Jintai Chen, Renjie Hua, Hongxia Xu, Ruijia Wu, Chuan Ren$^\dagger$, Jian Wu$^\dagger$.
 
 <!-- * **\[arXiv'25\]** [Generation of Drug-Induced Cardiac Reactions towards Virtual Clinical Trials](https://arxiv.org/pdf/2502.07297); **Qian Shao**$^\*$, Bang Du$^\*$, Zepeng Li, Qiyuan Chen, Hongxia Xu, Jimeng Sun, Jian Wu$^\dagger$, Jintai Chen$^\dagger$. -->
 
 * **\[arXiv'25\]** [Curing Semantic Drift: A Dynamic Approach to Grounding Generation in Large Vision-Language Models](https://arxiv.org/pdf/2506.21509); Jiahe Chen, Jiaying He, Qiyuan Chen, **Qian Shao**, Jiahe Ying, Hongxia Xu, Jintai Chen, Jianwei Zheng$^\dagger$, Jian Wu$^\dagger$.
-
-<!-- * **\[arXiv'24\]** [Towards Clinical Practice in CT-Based Pulmonary Disease Screening: An Efficient and Reliable Framework](https://arxiv.org/pdf/2412.01525); **Qian Shao**$^\*$, Bang Du$^\*$, Kai Zhang, Yixuan Wu, Zepeng Li, Qiyuan Chen, Qianqian Tang, Jian Wu, Jintai Chen$^\dagger$, Hongxia Xu$^\dagger$. -->
 
 
 # 🎖 Awards
