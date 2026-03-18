@@ -27,39 +27,50 @@ Also I work really closely with [Qiyuan Chen](https://qychen2001.github.io/), [Z
 
 ## 2026
 
-* **\[ICLR'26\]** [CoLA: Co-Calibrated Logit Adjustment for Long-Tailed Semi-Supervised Learning](https://openreview.net/pdf?id=pI9n8wAR80); **Qian Shao**, Qiyuan Chen, Jiahe Chen, Zepeng Li, Qianqian Tang, Hongxia Xu$^\dagger$, Jian Wu$^\dagger$.
+* **\[ICLR'26\]** [CoLA: Co-Calibrated Logit Adjustment for Long-Tailed Semi-Supervised Learning](https://openreview.net/pdf?id=pI9n8wAR80); **Qian Shao**, Q Chen, J Chen, Z Li, Q Tang, H Xu$^\dagger$, J Wu$^\dagger$.
 
-* **\[ICME'26 (Spotlight)\]** [DREAM: Distribution-aware Re-sampling with Equiangular Alignment Mechanism for Long-Tailed Semi-Supervised Learning](); **Qian Shao**$^\*$, Jiahe Chen$^\*$, Qiyuan Chen, Qianqian Tang, Jintai Chen, Hongxia Xu, Jiangrui Kang$^\dagger$, Jian Wu$^\dagger$.
+* **\[ICME'26 (Spotlight)\]** [DREAM: Distribution-aware Re-sampling with Equiangular Alignment Mechanism for Long-Tailed Semi-Supervised Learning](); **Qian Shao**$^\*$, J Chen$^\*$, Q Chen, Q Tang, J Chen, H Xu, J Kang$^\dagger$, J Wu$^\dagger$.
 
 ## 2025
 
-* **\[EMNLP'25\]** [Icon$^2$: Aligning Large Language Models Using Self-Synthetic Preference Data via Inherent Regulation](https://openreview.net/pdf?id=C5nZzUzYkz); Qiyuan Chen$^\*$, Hongsen Huang$^\*$, **Qian Shao**, Jiahe Chen, Jintai Chen, Hongxia Xu, Renjie Hua, Ren Chuan$^\dagger$, Jian Wu$^\dagger$.
+* **\[EMNLP'25\]** [Icon$^2$: Aligning Large Language Models Using Self-Synthetic Preference Data via Inherent Regulation](https://openreview.net/pdf?id=C5nZzUzYkz); Q Chen$^\*$, H Huang$^\*$, **Qian Shao**, J Chen, J Chen, H Xu, R Hua, R Chuan$^\dagger$, J Wu$^\dagger$.
 
 ## 2024
 
-* **\[IEEE MedAI'24\]** [Joint Explicit and Implicit Cross-Modal Interaction Network for Anterior Chamber Inflammation Diagnosis](https://ieeexplore.ieee.org/abstract/document/10803521); **Qian Shao**$^\*$, Ye Dai$^\*$, Haochao Ying$^\dagger$, Kan Xu, Jinhong Wang, Wei Chi$^\dagger$, Jian Wu.
+* **\[IEEE MedAI'24\]** [Joint Explicit and Implicit Cross-Modal Interaction Network for Anterior Chamber Inflammation Diagnosis](https://ieeexplore.ieee.org/abstract/document/10803521); **Qian Shao**$^\*$, Y Dai$^\*$, H Ying$^\dagger$, K Xu, J Wang, W Chi$^\dagger$, J Wu.
 
-* **\[KDD Workshop-AIDSH'24\]** [Comprehensive Subset Selection for CT Volume Compression to Improve Pulmonary Disease Screening Efficiency](https://openreview.net/pdf?id=JLyiMGQoqZ); **Qian Shao**$^\*$, Kai Zhang$^\*$, Bang Du, Zepeng Li, Yixuan Wu, Qiyuan Chen, Jian Wu$^\dagger$, Jintai Chen$^\dagger$.
+* **\[KDD Workshop-AIDSH'24\]** [Comprehensive Subset Selection for CT Volume Compression to Improve Pulmonary Disease Screening Efficiency](https://openreview.net/pdf?id=JLyiMGQoqZ); **Qian Shao**$^\*$, K Zhang$^\*$, B Du, Z Li, Y Wu, Q Chen, J Wu$^\dagger$, J Chen$^\dagger$.
 
-* **\[MICCAI'24 (Oral)\]** [TeleOR: Real-time Telemedicine System for Full-Scene Operating Room](https://link.springer.com/content/pdf/10.1007/978-3-031-72089-5_59.pdf); Yixuan Wu$^\*$, Kaiyuan Hu$^\*$, **Qian Shao**, Jintai Chen$^\dagger$, Danny Z. Chen, Jian Wu$^\dagger$.
+* **\[MICCAI'24 (Oral)\]** [TeleOR: Real-time Telemedicine System for Full-Scene Operating Room](https://link.springer.com/content/pdf/10.1007/978-3-031-72089-5_59.pdf); Y Wu$^\*$, K Hu$^\*$, **Qian Shao**, J Chen$^\dagger$, D Chen, J Wu$^\dagger$.
 
-* **\[NeurIPS'24\]** [Enhancing Semi-Supervised Learning via Representative and Diverse Sample Selection](https://proceedings.neurips.cc/paper_files/paper/2024/file/c959bb2cb164d37569a17fa67494d69a-Paper-Conference.pdf); **Qian Shao**$^\*$, Jiangrui Kang$^\*$, Qiyuan Chen$^\*$, Zepeng Li, Hongxia Xu, Yiwen Cao, Jiajuan Liang$^\dagger$, Jian Wu$^\dagger$.
+* **\[NeurIPS'24\]** [Enhancing Semi-Supervised Learning via Representative and Diverse Sample Selection](https://proceedings.neurips.cc/paper_files/paper/2024/file/c959bb2cb164d37569a17fa67494d69a-Paper-Conference.pdf); **Qian Shao**$^\*$, J Kang$^\*$, Q Chen$^\*$, Z Li, H Xu, Y Cao, J Liang$^\dagger$, J Wu$^\dagger$.
 
 ## 2021
 
-* **\[Mathematical Biosciences and Engineering, 2021\]** [Deep learning and radiomics analysis for prediction of placenta invasion based on T2WI](http://www.aimspress.com/aimspress-data/mbe/2021/5/PDF/mbe-18-05-310.pdf); **Qian Shao**$^\*$, Rongrong Xuan$^\*$, Yutao Wang$^\dagger$, Jian Xu, Menglin Ouyang, Caoqian Yin, Wei Jin$^\dagger$.
+* **\[Mathematical Biosciences and Engineering, 2021\]** [Deep learning and radiomics analysis for prediction of placenta invasion based on T2WI](http://www.aimspress.com/aimspress-data/mbe/2021/5/PDF/mbe-18-05-310.pdf); **Qian Shao**$^\*$, R Xuan$^\*$, Y Wang$^\dagger$, J Xu, M Ouyang, C Yin, W Jin$^\dagger$.
 
-* **\[Mathematical Biosciences and Engineering, 2021\]** [Development of a nomograph integrating radiomics and deep features based on MRI to predict the prognosis of high grade Gliomas](https://www.aimspress.com/aimspress-data/mbe/2021/6/PDF/mbe-18-06-401.pdf); Yutao Wang, **Qian Shao**$^\dagger$, Shuying Luo, Randi Fu.
+* **\[Mathematical Biosciences and Engineering, 2021\]** [Development of a nomograph integrating radiomics and deep features based on MRI to predict the prognosis of high grade Gliomas](https://www.aimspress.com/aimspress-data/mbe/2021/6/PDF/mbe-18-06-401.pdf); Y Wang, **Qian Shao**$^\dagger$, S Luo, R Fu.
 
 ## Pre-Print
 
-* **\[arXiv'26\]** [Towards Clinical Practice in CT-Based Pulmonary Disease Screening: An Efficient and Reliable Framework](https://arxiv.org/pdf/2412.01525); **Qian Shao**$^\*$, Bang Du$^\*$, Yixuan Wu, Zepeng Li, Qiyuan Chen, Qianqian Tang, Jian Wu, Jintai Chen$^\dagger$, Hongxia Xu$^\dagger$.
+* **\[arXiv'26\]** [Towards Clinical Practice in CT-Based Pulmonary Disease Screening: An Efficient and Reliable Framework](https://arxiv.org/pdf/2412.01525); **Qian Shao**$^\*$, B Du$^\*$, Y Wu, Z Li, Q Chen, Q Tang, J Wu, J Chen$^\dagger$, H Xu$^\dagger$.
 
-* **\[arXiv'25\]** [CC-GSEO-Bench: A Content-Centric Benchmark for Measuring Source Influence in Generative Search Engines](https://arxiv.org/pdf/2509.05607); Qiyuan Chen$^\*$, Jiahe Chen$^\*$, Hongsen Huang$^\*$, **Qian Shao**, Jintai Chen, Renjie Hua, Hongxia Xu, Ruijia Wu, Chuan Ren$^\dagger$, Jian Wu$^\dagger$.
+* **\[arXiv'25\]** [CC-GSEO-Bench: A Content-Centric Benchmark for Measuring Source Influence in Generative Search Engines](https://arxiv.org/pdf/2509.05607); Q Chen$^\*$, J Chen$^\*$, H Huang$^\*$, **Qian Shao**, J Chen, R Hua, H Xu, R Wu, C Ren$^\dagger$, J Wu$^\dagger$.
 
-<!-- * **\[arXiv'25\]** [Generation of Drug-Induced Cardiac Reactions towards Virtual Clinical Trials](https://arxiv.org/pdf/2502.07297); **Qian Shao**$^\*$, Bang Du$^\*$, Zepeng Li, Qiyuan Chen, Hongxia Xu, Jimeng Sun, Jian Wu$^\dagger$, Jintai Chen$^\dagger$. -->
+<!-- * **\[arXiv'25\]** [Generation of Drug-Induced Cardiac Reactions towards Virtual Clinical Trials](https://arxiv.org/pdf/2502.07297); **Qian Shao**$^\*$, B Du$^\*$, Z Li, Q Chen, H Xu, J Sun, J Wu$^\dagger$, J Chen$^\dagger$. -->
 
-* **\[arXiv'25\]** [Curing Semantic Drift: A Dynamic Approach to Grounding Generation in Large Vision-Language Models](https://arxiv.org/pdf/2506.21509); Jiahe Chen, Jiaying He, Qiyuan Chen, **Qian Shao**, Jiahe Ying, Hongxia Xu, Jintai Chen, Jianwei Zheng$^\dagger$, Jian Wu$^\dagger$.
+* **\[arXiv'25\]** [Curing Semantic Drift: A Dynamic Approach to Grounding Generation in LVLMs](https://arxiv.org/pdf/2506.21509); J Chen, J He, Q Chen, **Qian Shao**, J Ying, H Xu, J Chen, J Zheng$^\dagger$, J Wu$^\dagger$.
+
+<!-- ## Under Review
+
+* **\[Science Bulletin, 2026\]** [Deep learning-enabled objective quantification of anterior chamber inflammation on multi-device AS-OCT images: a multicenter diagnostic study](); Y Dai$^*$, **Qian Shao**$^*$, K Xu, Q Chen, Y Wang, L Jiang, G Zhu, Y Sun, M Lu, K Zeng, J Liu, P Zeng, X Yao, X Hu, Y Cheng, L Su, X Guo, D Lin, N Gong, L Chen, J Wu, L Niu, H Ying, W Chi$^\dagger$.
+
+* **\[ACL'26\]** [Learning What Matters: Dynamic Dimension Selection and Aggregation for Interpretable Vision-Language Reward Modeling](); Q Chen, H Huang, J Chen, **Qian Shao**, J Chen, H Xu, R Hua, R Chuan, J Wu.
+
+* **\[ACL'26\]** [D-GSEO-Bench: Embedding-Based, Deterministic Measurement of Source Influence in Generative Search Engines](); Q Chen, H Huang, J Chen, **Qian Shao**, J Chen, H Xu, R Hua, R Chuan, J Wu.
+
+* **\[ECCV'26\]** [Geometric Gradient Rectification for Safe Open-Set Semi-Supervised Learning](); J Chen$^*$, **Qian Shao**$^*$, Q Chen, J He, J Chen, H Xu, J Wu. -->
+
 
 
 # 🎖 Awards
