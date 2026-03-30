@@ -3,7 +3,7 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -53,11 +53,11 @@ Also I work really closely with [Qiyuan Chen](https://qychen2001.github.io/), [Z
 
 ## Pre-Print
 
+* **\[arXiv'26\]** [MM-DADM: Multimodal Drug-Aware Diffusion Model for Virtual Clinical Trials](https://arxiv.org/pdf/2502.07297); **Qian Shao**$^\*$, B Du$^\*$, Z Li, Q Chen, J Chen, H Xu, J Sun, J Wu$^\dagger$, J Chen$^\dagger$.
+
 * **\[arXiv'26\]** [Towards Clinical Practice in CT-Based Pulmonary Disease Screening: An Efficient and Reliable Framework](https://arxiv.org/pdf/2412.01525); **Qian Shao**$^\*$, B Du$^\*$, Y Wu, Z Li, Q Chen, Q Tang, J Wu, J Chen$^\dagger$, H Xu$^\dagger$.
 
 * **\[arXiv'25\]** [CC-GSEO-Bench: A Content-Centric Benchmark for Measuring Source Influence in Generative Search Engines](https://arxiv.org/pdf/2509.05607); Q Chen$^\*$, J Chen$^\*$, H Huang$^\*$, **Qian Shao**, J Chen, R Hua, H Xu, R Wu, C Ren$^\dagger$, J Wu$^\dagger$.
-
-<!-- * **\[arXiv'25\]** [Generation of Drug-Induced Cardiac Reactions towards Virtual Clinical Trials](https://arxiv.org/pdf/2502.07297); **Qian Shao**$^\*$, B Du$^\*$, Z Li, Q Chen, H Xu, J Sun, J Wu$^\dagger$, J Chen$^\dagger$. -->
 
 * **\[arXiv'25\]** [Curing Semantic Drift: A Dynamic Approach to Grounding Generation in LVLMs](https://arxiv.org/pdf/2506.21509); J Chen, J He, Q Chen, **Qian Shao**, J Ying, H Xu, J Chen, J Zheng$^\dagger$, J Wu$^\dagger$.
 
