@@ -17,9 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Qian Shao (邵谦), a Ph.D. student in the College of Computer Science and Technology, Zhejiang University. I am interested in machine learning and its applications in healthcare.
-
-Also I work really closely with [Qiyuan Chen](https://qychen2001.github.io/), [Zepeng Li](https://lzzppp.github.io/) and [Jiahe Chen](https://jiahechen2002.github.io/).
+I am Qian Shao (邵谦), a Ph.D. student in the College of Computer Science and Technology, Zhejiang University. I am interested in machine learning and its applications in healthcare. I work closely with [Qiyuan Chen](https://qychen2001.github.io/), [Zepeng Li](https://lzzppp.github.io/) and [Jiahe Chen](https://jiahechen2002.github.io/).
 
 # 📝 Publications 
 
