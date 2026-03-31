@@ -51,7 +51,7 @@ I am Qian Shao (邵谦), a Ph.D. student in the College of Computer Science and 
 
 ## Pre-Print
 
-* **\[arXiv'26\]** [MM-DADM: Multimodal Drug-Aware Diffusion Model for Virtual Clinical Trials](https://arxiv.org/pdf/2502.07297); **Qian Shao**$^\*$, B Du$^\*$, Z Li, Q Chen, J Chen, H Xu, J Sun, J Wu$^\dagger$, J Chen$^\dagger$.
+* **\[arXiv'26\]** [MM-DADM: Multimodal Drug-Aware Diffusion Model for Virtual Clinical Trials](https://arxiv.org/abs/2502.07297); **Qian Shao**$^\*$, B Du$^\*$, Z Li, Q Chen, J Chen, H Xu, J Sun, J Wu$^\dagger$, J Chen$^\dagger$.
 
 * **\[arXiv'26\]** [Towards Clinical Practice in CT-Based Pulmonary Disease Screening: An Efficient and Reliable Framework](https://arxiv.org/pdf/2412.01525); **Qian Shao**$^\*$, B Du$^\*$, Y Wu, Z Li, Q Chen, Q Tang, J Wu, J Chen$^\dagger$, H Xu$^\dagger$.
 
