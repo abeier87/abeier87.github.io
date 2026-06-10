@@ -27,9 +27,9 @@ I am Qian Shao (邵谦), a Ph.D. student in the College of Computer Science and 
 
 * [CoLA: Co-Calibrated Logit Adjustment for Long-Tailed Semi-Supervised Learning](https://openreview.net/pdf?id=pI9n8wAR80). **Qian Shao**, Q Chen, J Chen, Z Li, Q Tang, H Xu$^\dagger$, J Wu$^\dagger$. **ICLR 2026, \[CCF A, TH-CPL A\]**.
 
-* [DREAM: Distribution-aware Re-sampling with Equiangular Alignment Mechanism for Long-Tailed Semi-Supervised Learning](). **Qian Shao**$^\*$, J Chen$^\*$, Q Chen, Q Tang, J Chen, H Xu, J Kang$^\dagger$, J Wu$^\dagger$. **ICME 2026 (Spotlight), \[CCF B\]**.
+* [DREAM: Distribution-aware Re-sampling with Equiangular Alignment Mechanism for Long-Tailed Semi-Supervised Learning](). **Qian Shao**$^\*$, J Chen$^\*$, Q Chen, Q Tang, J Chen, H Xu$^\dagger$, J Kang$^\dagger$, J Wu. **ICME 2026 (Spotlight), \[CCF B\]**.
 
-* [Learning What Matters: Dynamic Dimension Selection and Aggregation for Interpretable Vision-Language Reward Modeling](). Q Chen, H Huang, J Chen, **Qian Shao**, J Chen, H Xu, R Hua, R Chuan, J Wu. **ACL 2026, \[CCF A, TH-CPL A\]**.
+* [Learning What Matters: Dynamic Dimension Selection and Aggregation for Interpretable Vision-Language Reward Modeling](). Q Chen$^\*$, H Huang$^\*$, J Chen, **Qian Shao**, J Chen, H Xu$^\dagger$, R Hua, R Chuan$^\dagger$, J Wu. **ACL 2026, \[CCF A, TH-CPL A\]**.
 
 
 ## 2025
@@ -88,5 +88,11 @@ I am Qian Shao (邵谦), a Ph.D. student in the College of Computer Science and 
 - *2014.09 - 2018.06*, B.Eng. in Computer Science and Technology, Faculty of Electrical Engineering and Computer Science, Ningbo University
 
 
-# 💬 Talks
-None yet.
+# 🔎 Professional Services
+
+- Review for Conferences: NeurIPS, AAAI, ACM MM
+
+- Review for Journals: IEEE TPAMI
+
+<!-- # 💬 Talks
+None yet. -->
