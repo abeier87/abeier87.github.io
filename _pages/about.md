@@ -90,7 +90,7 @@ I am Qian Shao (邵谦), a Ph.D. student in the College of Computer Science and 
 
 # 🔎 Professional Services
 
-- Review for Conferences: NeurIPS, AAAI, ACM MM
+- Review for Conferences: NeurIPS, AAAI, ACM MM, IEEE ICME
 
 - Review for Journals: IEEE TPAMI
 
