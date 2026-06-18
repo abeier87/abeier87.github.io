@@ -71,7 +71,7 @@ I am Qian Shao (邵谦), a Ph.D. student in the College of Computer Science and 
 * **\[Science Bulletin, 2026\]** [Deep learning-enabled objective quantification of anterior chamber inflammation on multi-device AS-OCT images: a multicenter diagnostic study](). Y Dai$^*$, **Qian Shao**$^*$, K Xu, Q Chen, Y Wang, L Jiang, G Zhu, Y Sun, M Lu, K Zeng, J Liu, P Zeng, X Yao, X Hu, Y Cheng, L Su, X Guo, D Lin, N Gong, L Chen, J Wu, L Niu, H Ying, W Chi$^\dagger$.
 
 * **\[ACL'26\]** [D-GSEO-Bench: Embedding-Based, Deterministic Measurement of Source Influence in Generative Search Engines](). Q Chen, H Huang, J Chen, **Qian Shao**, J Chen, H Xu, R Hua, R Chuan, J Wu.
-
+-->
 
 
 # 🎖 Awards
