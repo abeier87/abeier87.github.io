@@ -25,6 +25,8 @@ I am Qian Shao (邵谦), a Ph.D. student in the College of Computer Science and 
 
 ## 2026
 
+<!-- * [Geometric Gradient Rectification for Safe Open-Set Semi-Supervised Learning](). J Chen$^*$, **Qian Shao**$^*$, Q Chen, J He, J Chen, H Xu, J Wu$^\dagger$. **ECCV 2026, \[TH-CPL A\]**. -->
+
 * [CoLA: Co-Calibrated Logit Adjustment for Long-Tailed Semi-Supervised Learning](https://openreview.net/pdf?id=pI9n8wAR80). **Qian Shao**, Q Chen, J Chen, Z Li, Q Tang, H Xu$^\dagger$, J Wu$^\dagger$. **ICLR 2026, \[CCF A, TH-CPL A\]**.
 
 * [DREAM: Distribution-aware Re-sampling with Equiangular Alignment Mechanism for Long-Tailed Semi-Supervised Learning](). **Qian Shao**$^\*$, J Chen$^\*$, Q Chen, Q Tang, J Chen, H Xu$^\dagger$, J Kang$^\dagger$, J Wu. **ICME 2026 (Spotlight), \[CCF B\]**.
@@ -69,8 +71,6 @@ I am Qian Shao (邵谦), a Ph.D. student in the College of Computer Science and 
 * **\[Science Bulletin, 2026\]** [Deep learning-enabled objective quantification of anterior chamber inflammation on multi-device AS-OCT images: a multicenter diagnostic study](). Y Dai$^*$, **Qian Shao**$^*$, K Xu, Q Chen, Y Wang, L Jiang, G Zhu, Y Sun, M Lu, K Zeng, J Liu, P Zeng, X Yao, X Hu, Y Cheng, L Su, X Guo, D Lin, N Gong, L Chen, J Wu, L Niu, H Ying, W Chi$^\dagger$.
 
 * **\[ACL'26\]** [D-GSEO-Bench: Embedding-Based, Deterministic Measurement of Source Influence in Generative Search Engines](). Q Chen, H Huang, J Chen, **Qian Shao**, J Chen, H Xu, R Hua, R Chuan, J Wu.
-
-* **\[ECCV'26\]** [Geometric Gradient Rectification for Safe Open-Set Semi-Supervised Learning](). J Chen$^*$, **Qian Shao**$^*$, Q Chen, J He, J Chen, H Xu, J Wu. -->
 
 
 
