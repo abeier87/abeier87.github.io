@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Qian Shao (邵谦), a Ph.D. student in the College of Computer Science and Technology, Zhejiang University, under the supervision of [Prof. Jian Wu](https://person.zju.edu.cn/0004274). I am interested in machine learning and its applications in healthcare.
+I am Qian Shao (邵谦), a Ph.D. student in the College of Computer Science and Technology, Zhejiang University. I am interested in machine learning and its applications in healthcare.
 
 # 📝 Publications 
 
@@ -81,11 +81,11 @@ I am Qian Shao (邵谦), a Ph.D. student in the College of Computer Science and 
 - *2019.12*, Sencond Prize in "HUAWEI Cup" The 16th China Post-Graduate Mathematical Contest in Modeling (Top 15%)
 
 # 📖 Educations
-- *2022.09 - 2026.03 (expected)*, Ph.D. in Computer Science and Technology, College of Computer Science and Technology, Zhejiang University
+- *2022.09 - 2026.03 (expected)*, Ph.D. in Computer Science and Technology, College of Computer Science and Technology, Zhejiang University, under the supervision of [Prof. Jian Wu](https://person.zju.edu.cn/0004274)
 
-- *2019.09 - 2022.06*, M.Eng. in Computer Technology, Faculty of Electrical Engineering and Computer Science, Ningbo University
+- *2019.09 - 2022.06*, M.Eng. in Computer Technology, Faculty of Electrical Engineering and Computer Science, Ningbo University, under the supervision of [Prof. Wei Jin](https://eecs.nbu.edu.cn/info/3341/16396.htm)
 
-- *2014.09 - 2018.06*, B.Eng. in Computer Science and Technology, Faculty of Electrical Engineering and Computer Science, Ningbo University
+- *2014.09 - 2018.06*, B.Eng. in Computer Science and Technology, Faculty of Electrical Engineering and Computer Science, Ningbo University, advised by [Dr. Chong Wang](https://eecs.nbu.edu.cn/info/3341/16536.htm)
 
 
 # 🔎 Professional Services
