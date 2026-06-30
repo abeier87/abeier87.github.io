@@ -19,7 +19,7 @@ redirect_from:
 
 I am Qian Shao (邵谦), a Ph.D. student in the College of Computer Science and Technology, Zhejiang University. I am interested in machine learning and its applications in healthcare.
 
-# 📝 Publications 
+# 📝 Publications
 
 <span style="color:blue">(*: Equal contribution; $\dagger$: Corresponding author(s))</span>
 
