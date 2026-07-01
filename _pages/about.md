@@ -25,11 +25,11 @@ I am Qian Shao (邵谦), a Ph.D. student in the College of Computer Science and 
 
 ## 2026
 
-* [Geometric Gradient Rectification for Safe Open-Set Semi-Supervised Learning](https://arxiv.org/abs/2606.26973). J Chen$^\*$, **Qian Shao**$^\*$, Q Chen, J He, J Chen, J Wu$^\dagger$, H Xu$^\dagger$. **ECCV 2026, \[TH-CPL A\]**.
-
 * [CoLA: Co-Calibrated Logit Adjustment for Long-Tailed Semi-Supervised Learning](https://openreview.net/forum?id=pI9n8wAR80). **Qian Shao**, Q Chen, J Chen, Z Li, Q Tang, H Xu$^\dagger$, J Wu$^\dagger$. **ICLR 2026, \[CCF A, TH-CPL A\]**.
 
 * [DREAM: Distribution-aware Re-sampling with Equiangular Alignment Mechanism for Long-Tailed Semi-Supervised Learning](). **Qian Shao**$^\*$, J Chen$^\*$, Q Chen, Q Tang, J Chen, H Xu$^\dagger$, J Kang$^\dagger$, J Wu. **ICME 2026 (Spotlight), \[CCF B\]**.
+
+* [Geometric Gradient Rectification for Safe Open-Set Semi-Supervised Learning](https://arxiv.org/abs/2606.26973). J Chen$^\*$, **Qian Shao**$^\*$, Q Chen, J He, J Chen, J Wu$^\dagger$, H Xu$^\dagger$. **ECCV 2026, \[TH-CPL A\]**.
 
 * [Learning What Matters: Dynamic Dimension Selection and Aggregation for Interpretable Vision-Language Reward Modeling](). Q Chen$^\*$, H Huang$^\*$, J Chen, **Qian Shao**, J Chen, H Xu$^\dagger$, R Hua, R Chuan$^\dagger$, J Wu. **ACL 2026, \[CCF A, TH-CPL A\]**.
 
